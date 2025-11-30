@@ -4,7 +4,7 @@ Copyright (c) 2025 Thomas Ha, Andrew Lee, and Connor Lee.
 
 ## Attribution
 
-All `.csv` files contained within `phishfence/data/input` are publicly available datasets. The original copyright holders are [credited](https://github.com/thomasha1310/phishfence/blob/main/data/input/metadata/SOURCES.md). We take no credit for producing these datasets.
+All `.csv` files contained within `phishfence/data/input` are publicly available datasets. The original copyright holders are [credited](https://github.com/thomasha1310/phishfence/blob/main/data/input/SOURCES.md). We take no credit for producing these datasets.
 
 ## Licenses
 
